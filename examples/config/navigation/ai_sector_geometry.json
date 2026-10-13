@@ -1,0 +1,22 @@
+{
+  "schema": 1,
+  "region": {
+    "left": 30,
+    "top": 20,
+    "width": 200,
+    "height": 200
+  },
+  "circle_center_xy": [
+    100.0,
+    100.0
+  ],
+  "circle_radius": 100.0,
+  "player_center_xy": [
+    99.81320985343343,
+    101.53627430153593
+  ],
+  "measured_aperture_median_deg": 63.42261255881874,
+  "geometry_report": "outputs/navigation/geometry_review/sector_geometry_audit.json",
+  "navigation_approved": false,
+  "note": "Only applies to the matching crop; yellow arrow supports position, not camera direction."
+}

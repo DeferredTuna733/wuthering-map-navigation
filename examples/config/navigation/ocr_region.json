@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "region": {
+    "left": 14,
+    "top": 1051,
+    "width": 480,
+    "height": 28
+  },
+  "note": "整行读取坐标及右侧日期时间；按完整有效日期分界，日期缺失或截断则拒绝，不能把日期数字拼入高度。改变窗口、分辨率后需重新核验整行范围。",
+  "content": "coordinates_and_datetime"
+}

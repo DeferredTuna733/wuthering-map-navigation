@@ -1,0 +1,15 @@
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.env*
+auth.json
+config/navigation/
+data/
+models/
+outputs/
+runs/
+*.log
+.trae/
+.codex/
+.agents/

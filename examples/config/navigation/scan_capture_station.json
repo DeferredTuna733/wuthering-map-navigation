@@ -1,0 +1,18 @@
+{
+  "region": {
+    "left": 30,
+    "top": 20,
+    "width": 200,
+    "height": 200
+  },
+  "circle": {
+    "center_xy": [
+      100.0,
+      100.0
+    ],
+    "radius": 100.0
+  },
+  "capture_key": "F8",
+  "finish_key": "F9",
+  "immediate": true
+}

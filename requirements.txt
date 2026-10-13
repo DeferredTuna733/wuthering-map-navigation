@@ -1,0 +1,11 @@
+numpy
+Pillow
+opencv-python
+mss
+rapidocr-onnxruntime
+onnxruntime
+PyDirectInput
+keyboard
+ultralytics
+torch
+PyYAML
